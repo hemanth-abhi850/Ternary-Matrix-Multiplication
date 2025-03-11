@@ -3,6 +3,11 @@
 ## Overview
 This repository contains the implementation of **Approximate Ternary Matrix Multiplication** for **image processing** and **ternary neural networks (TNNs)**. The work introduces a **Carbon Nanotube FET (CNTFET)-based ternary systolic array architecture** utilizing **approximate 4:2 compressors** to enhance energy efficiency while maintaining computational accuracy.
 
+This work is based on the research paper:  
+📄 **"Approximate Ternary Matrix Multiplication for Image Processing and Neural Networks"**  
+📌 *L. Hemanth Krishna, B. Srinivasu*  
+🔗 [IEEE Xplore DOI: 10.1109/ISVLSI61997.2024.00060](https://doi.org/10.1109/ISVLSI61997.2024.00060)
+
 ## Key Features
 - **Ternary 4:2 Compressors**: Reduces hardware complexity by **18%** compared to existing designs.
 - **Approximate Multiplication**: Saves **20% energy** over recent approximate ternary multipliers.
