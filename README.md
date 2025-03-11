@@ -16,8 +16,4 @@ This repository contains the implementation of **Approximate Ternary Matrix Mult
 - `docs/` : Research paper and related documentation.
 - `datasets/` : Sample images and datasets for testing.
 
-## Installation & Requirements
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your_username/Approximate-Ternary-Matrix-Multiplication.git
-   cd Approximate-Ternary-Matrix-Multiplication
+
